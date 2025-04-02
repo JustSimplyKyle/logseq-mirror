@@ -434,8 +434,7 @@
 			  
 			  // (1,2) (2,3) (3,4) (4,5) (5,6)
 			  ```
-		- collapsed:: true
-		  #+BEGIN_TIP
+		- #+BEGIN_TIP
 		  官方解答
 		  #+END_TIP
 			- ```cpp
